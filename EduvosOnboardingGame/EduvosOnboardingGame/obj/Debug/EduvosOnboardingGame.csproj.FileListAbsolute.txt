@@ -1,0 +1,13 @@
+C:\Users\tfour\OneDrive\Desktop\EduvosOnboardingGame\EduvosOnboardingGame\bin\Debug\EduvosOnboardingGame.exe.config
+C:\Users\tfour\OneDrive\Desktop\EduvosOnboardingGame\EduvosOnboardingGame\bin\Debug\EduvosOnboardingGame.exe
+C:\Users\tfour\OneDrive\Desktop\EduvosOnboardingGame\EduvosOnboardingGame\bin\Debug\EduvosOnboardingGame.pdb
+C:\Users\tfour\OneDrive\Desktop\EduvosOnboardingGame\EduvosOnboardingGame\obj\Debug\EduvosOnboardingGame.csproj.AssemblyReference.cache
+C:\Users\tfour\OneDrive\Desktop\EduvosOnboardingGame\EduvosOnboardingGame\obj\Debug\EduvosOnboardingGame.UI.SplashForm.resources
+C:\Users\tfour\OneDrive\Desktop\EduvosOnboardingGame\EduvosOnboardingGame\obj\Debug\EduvosOnboardingGame.UI.StartForm.resources
+C:\Users\tfour\OneDrive\Desktop\EduvosOnboardingGame\EduvosOnboardingGame\obj\Debug\EduvosOnboardingGame.UI.GameForm.resources
+C:\Users\tfour\OneDrive\Desktop\EduvosOnboardingGame\EduvosOnboardingGame\obj\Debug\EduvosOnboardingGame.UI.ResultForm.resources
+C:\Users\tfour\OneDrive\Desktop\EduvosOnboardingGame\EduvosOnboardingGame\obj\Debug\EduvosOnboardingGame.csproj.GenerateResource.cache
+C:\Users\tfour\OneDrive\Desktop\EduvosOnboardingGame\EduvosOnboardingGame\obj\Debug\EduvosOnboardingGame.csproj.CoreCompileInputs.cache
+C:\Users\tfour\OneDrive\Desktop\EduvosOnboardingGame\EduvosOnboardingGame\obj\Debug\EduvosOnboardingGame.exe
+C:\Users\tfour\OneDrive\Desktop\EduvosOnboardingGame\EduvosOnboardingGame\obj\Debug\EduvosOnboardingGame.pdb
+C:\Users\tfour\OneDrive\Desktop\EduvosOnboardingGame\EduvosOnboardingGame\obj\Debug\EduvosOnboardingGame.exe.config
